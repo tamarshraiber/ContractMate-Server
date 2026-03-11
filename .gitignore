@@ -1,0 +1,24 @@
+# תיקיית קבצים זמניים
+/temp/
+
+# קבצי Python שנוצרים בזמן ריצה
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# סביבת פיתוח ו-venv
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# לוגים ו-DB
+*.log
+*.db
+*.sqlite
+
+# קבצי סביבה עם מפתחות API
+.env
