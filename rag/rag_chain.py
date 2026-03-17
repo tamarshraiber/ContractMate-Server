@@ -1,0 +1,2 @@
+# יצירת RetrievalQA chain
+        
